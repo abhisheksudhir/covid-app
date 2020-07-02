@@ -1,6 +1,10 @@
 # covid_app
 
-A new Flutter project.
+An app that keeps track of india cases statewise. On main screen shows all states and their total cases. When clicked on the state shows a pie chart of the active, cured and death cases. 
+
+## Screenshots
+![](images/1.PNG)
+![](images/2.PNG)
 
 ## Getting Started
 
